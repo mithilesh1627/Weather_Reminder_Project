@@ -1,0 +1,9 @@
+requests
+smtplib
+schedule
+json
+datetime
+pandas
+dataframe_image
+BeautifulSoup
+win10toast
